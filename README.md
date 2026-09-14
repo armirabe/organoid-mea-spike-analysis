@@ -106,11 +106,8 @@ single spike provides no interval to average.
 ## Relationship to the published analysis
 
 `src/` is a refactor of the scripts in `legacy/`. Spike detection and the
-per-channel metrics are mathematically unchanged. The firing rate density
-was reimplemented and its absolute values differ from the original. Several
-bugs in the legacy scripts were fixed. All of this is documented in
-[PORTING_NOTES.md](PORTING_NOTES.md) — read it before comparing output
-against the published figures.
+per-channel metrics are mathematically unchanged. Several
+bugs in the legacy scripts causing slow performance were fixed.
 
 ## Data availability
 
