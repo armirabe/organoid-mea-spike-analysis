@@ -114,7 +114,7 @@ for channel = 1:num_channels
     end
     hold off
 
-    Add to Stacked Filtered Data Plot
+    % Add to Stacked Filtered Data Plot
     figure(2); % Switch to filtered data figure
     hold on
     time_for_plot = (1:length(test_data)) / sf;
