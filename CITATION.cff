@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Organoid MEA Spike Analysis"
+abstract: >-
+  MATLAB pipeline for detecting and characterising extracellular spikes in
+  multichannel recordings from cerebral organoids on carbon nanotube
+  microelectrode arrays.
+license: MIT
+authors:
+  - family-names: "Mirabedini"
+    given-names: "Aram"
+preferred-citation:
+  type: article
+  title: >-
+    Carbon nanotube microelectrode arrays enable scalable and accessible
+    electrophysiological recordings of cerebral organoids
+  authors:
+    - family-names: "Mishra"
+      given-names: "N."
+    - family-names: "Kaveti"
+      given-names: "R."
+    - family-names: "Liu"
+      given-names: "P."
+  journal: "npj Biosensing"
+  volume: 3
+  start: 20
+  year: 2026
+  doi: "10.1038/s44328-026-00088-9"

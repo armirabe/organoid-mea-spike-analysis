@@ -1,0 +1,22 @@
+# Analysis outputs
+results/
+*.xlsx
+*.csv
+
+# Recordings — never commit experimental data
+*.ns2
+*.ns3
+*.ns5
+*.ns6
+*.nev
+*.mat
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+octave-workspace
+
+# OS
+.DS_Store
+Thumbs.db
